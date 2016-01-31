@@ -1,0 +1,21 @@
+{
+  "name": "Angular-Environment-Checker",
+  "homepage": "https://github.com/nickthesing/angular-environment-checker",
+  "authors": [
+    "nickthesing"
+  ],
+  "description": "Something goes here",
+  "main": "app.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "environment",
+    "checker"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "~1.4.9",
+    "bootstrap": "~3.3.6",
+    "lodash": "~4.0.1"
+  }
+}
